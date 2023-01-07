@@ -1,1 +1,3 @@
 # SmenRepository
+
+Smen project!
